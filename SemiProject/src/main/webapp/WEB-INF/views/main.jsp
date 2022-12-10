@@ -6,6 +6,7 @@
 <head>
 <meta charset="UTF-8">
 <title>Main</title>
+	<!-- banner button -->
     <!--메인-->
     <style type="text/css">
     	.search-form{
